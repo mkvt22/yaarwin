@@ -1,0 +1,17 @@
+{
+  "name": "Yaar Win – Official Android App",
+  "short_name": "Yaar Win",
+  "description": "Experience Yaar Win with a clean, fast, and engaging mobile experience.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#09DE8A",
+  "icons": [
+    {
+      "src": "/yaarwin/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

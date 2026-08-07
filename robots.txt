@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mkvt22.github.io/yaarwin/sitemap.xml
